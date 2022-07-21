@@ -1,4 +1,4 @@
-# vs2019-std-17-unicode_c-_winapi_thread_writefile_iobserver
+# vs2019-std-17-unicode_cpp_winapi_thread_writefile_iobserver_dll_01
 
 Приложение использует введенные данные от пользователя.
 После нажатия на кнопку Запустить тест, обект с интерфейсов наблюдателе создает необъодимое количество потоков.
